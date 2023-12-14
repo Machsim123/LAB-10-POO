@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702574220 source:c:\users\student\desktop\lab 10 poo\lab 10\main.cpp
+	<assert.h>
+	<iostream>
+	<string>
+
